@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Voting Application</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="buttor">Buttor</string>
+    <string name="button">Button</string>
+    <string name="registration">Registration</string>
+    <string name="username">Username</string>
+    <string name="phone_no">Phone No</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_here_to_register">Click Here to Register</string>
+    <string name="candidates">Candidates</string>
+    <string name="candidate_4">Candidate 4</string>
+    <string name="candidate_3">Candidate 3</string>
+    <string name="candidate_2">Candidate 2</string>
+    <string name="candidate_1">Candidate 1</string>
+    <string name="vote">Vote</string>
+    <string name="candidate">Candidate</string>
+    <string name="results">Results</string>
+    <string name="_0">0</string>
+</resources>
